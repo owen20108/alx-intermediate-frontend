@@ -1,0 +1,24 @@
+{
+  "name": "alx-intermediate-frontend",
+  "version": "1.0.0",
+  "description": "This project focuses on building a solid foundation in Semantic HTML while emphasizing accessibility, SEO optimization, and the implementation of ARIA roles for enhanced usability. Through incremental tasks, learners will structure and enhance a web page to make it not only visually structured but also optimized for screen readers and search engines. By the end of the project, learners will understand the importance of semantic elements and accessibility features in modern web development.",
+  "main": "index.js",
+  "dependencies": {
+    "tailwindcss": "^3.4.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/owen20108/alx-intermediate-frontend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/owen20108/alx-intermediate-frontend/issues"
+  },
+  "homepage": "https://github.com/owen20108/alx-intermediate-frontend#readme"
+}
